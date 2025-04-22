@@ -1,5 +1,7 @@
 <div align=center>
-# 🪪 ShellyCard
+<h1>
+  ShellyCard
+</h1>
 </div>
 
 **Digital business cards and punchcards for the modern small business.**
@@ -36,7 +38,7 @@ ShellyCard is:
 
 | Repo | Description |
 |------|-------------|
-| [shellycard](https://github.com/shellycard/shellycard) | Core web app – the frontend of ShellyCard |
+| [api](https://github.com/shellycard/api) | Public API for ShellyCard |
 | *(more coming soon...)* | |
 
 ---
