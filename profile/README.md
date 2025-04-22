@@ -1,23 +1,22 @@
 # 🪪 ShellyCard
 
-**Digital business cards for the modern small business.**
+**Digital business cards and punchcards for the modern small business.**
 
-Welcome to the official GitHub organization of **ShellyCard** – a simple, sleek, and powerful platform that helps small businesses, freelancers, and professionals create, share, and manage their digital presence.
+Welcome to the official GitHub organization of **ShellyCard** – a simple, sleek, and powerful platform that helps small businesses connect with their customers through digital identity and loyalty.
 
 ---
 
 ## 🚀 What is ShellyCard?
 
-ShellyCard allows anyone to create a beautiful digital business card in minutes. Perfect for:
-- Freelancers & self-employed professionals
-- Small & medium businesses
-- Creatives, consultants, coaches, and more
+ShellyCard is a **digital punchcard app** designed for SMBs (small and medium-sized businesses).
 
-Your card includes:
-- Profile and contact details
-- Links to social media, websites, messaging apps
-- Shareable link and QR code
-- Mobile-first responsive design
+It allows businesses to **reward customers** with rebates, points, gifts, or any form of loyalty benefit they choose.  
+Using **QR codes**, businesses can identify returning customers easily — and customers can scan businesses to track their rewards.
+
+Perfect for:
+- Cafes, barbers, salons, and local shops
+- Freelancers and independent service providers
+- Anyone offering recurring services and looking to build customer retention
 
 ---
 
@@ -51,6 +50,9 @@ ShellyCard is:
 
 **Idan** – Full-stack developer and founder of [Easyera](https://www.easyera.dev)  
 👨‍💻 [idanizi.com](https://www.idanizi.com) | 🇸🇬 Based in Singapore
+
+**Ori Marom** – Product & Strategy  
+📧 ori.marom10@gmail.com
 
 ---
 
