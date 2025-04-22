@@ -62,6 +62,6 @@ If you're a designer, developer, or just excited about digital tools for small b
 
 ---
 
-## 📄 License
+## ⚖️ License
 
 All code in public repositories is MIT licensed unless stated otherwise.
