@@ -1,4 +1,6 @@
+<div align=center>
 # 🪪 ShellyCard
+</div>
 
 **Digital business cards and punchcards for the modern small business.**
 
